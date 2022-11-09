@@ -1,0 +1,1 @@
+/usr/sbin/cc -rdynamic CMakeFiles/greet.dir/main.c.o -o greet 

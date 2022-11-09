@@ -1,0 +1,5 @@
+/home/zander/openhello/CMakeFiles/edit_cache.dir
+/home/zander/openhello/CMakeFiles/rebuild_cache.dir
+/home/zander/openhello/greet/CMakeFiles/greet.dir
+/home/zander/openhello/greet/CMakeFiles/edit_cache.dir
+/home/zander/openhello/greet/CMakeFiles/rebuild_cache.dir
